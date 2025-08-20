@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Arthur NTZ",
+    "phone": "6955211974",
+    "afm": "888888888",
+    "company": "Dal Comp",
+    "email": "art@gmail.com",
+    "notes": "Kalos",
+    "region": "Thessaloniki",
+    "id": 1753961586518,
+    "tasks": [
+      {
+        "id": "1755079922252",
+        "title": "Radiovvvvvvvvvvvvvvvvvvvvvvvvvvv",
+        "clientId": "1753961586518",
+        "description": "Ringdms jbcas bvpw bhbcew ",
+        "cost": 44,
+        "date": "2025-08-15",
+        "status": "Σε Εξέλιξη",
+        "priority": "Μέτρια",
+        "paid": 44,
+        "payments": [
+          {
+            "amount": 10,
+            "at": "2025-08-13T10:12:08.227Z"
+          },
+          {
+            "amount": 34,
+            "at": "2025-08-13T10:12:34.476Z"
+          }
+        ],
+        "createdAt": "2025-08-13T10:12:02.252Z",
+        "updatedAt": "2025-08-13T10:17:42.836Z"
+      },
+      {
+        "id": "1755079977668",
+        "title": "32",
+        "clientId": "1753961586518",
+        "description": "323",
+        "cost": 33,
+        "date": "2025-08-15",
+        "status": "Σε Εξέλιξη",
+        "priority": "Μέτρια",
+        "paid": 33,
+        "payments": [
+          {
+            "amount": 10,
+            "at": "2025-08-13T10:17:19.146Z"
+          },
+          {
+            "amount": 23,
+            "at": "2025-08-13T10:18:19.580Z"
+          }
+        ],
+        "createdAt": "2025-08-13T10:12:57.668Z",
+        "updatedAt": "2025-08-13T10:18:19.580Z"
+      },
+      {
+        "id": "1755082101834",
+        "title": "RARR",
+        "clientId": 1753961586518,
+        "description": "fafas",
+        "cost": 32,
+        "date": "2025-08-02",
+        "status": "Σε Εξέλιξη",
+        "priority": "Μέτρια",
+        "paid": 0,
+        "payments": [],
+        "createdAt": "2025-08-13T10:48:21.834Z"
+      },
+      {
+        "id": "1755082844189",
+        "title": "ρ12ρ23",
+        "clientId": 1753961586518,
+        "description": "323",
+        "cost": 332,
+        "date": "2025-08-15",
+        "status": "Σε Εξέλιξη",
+        "priority": "Μέτρια",
+        "paid": 0,
+        "payments": [],
+        "createdAt": "2025-08-13T11:00:44.189Z"
+      },
+      {
+        "id": "1755082852189",
+        "title": "32323",
+        "clientId": 1753961586518,
+        "description": "323",
+        "cost": 11,
+        "date": "2025-08-17",
+        "status": "Σε Εξέλιξη",
+        "priority": "Μέτρια",
+        "paid": 0,
+        "payments": [],
+        "createdAt": "2025-08-13T11:00:52.189Z"
+      },
+      {
+        "id": "1755082866125",
+        "title": "32332",
+        "clientId": 1753961586518,
+        "description": "",
+        "cost": 334,
+        "date": "2025-08-28",
+        "status": "Σε Εξέλιξη",
+        "priority": "Μέτρια",
+        "paid": 162,
+        "payments": [
+          {
+            "amount": 1,
+            "at": "2025-08-13T11:05:01.340Z"
+          },
+          {
+            "amount": 11,
+            "at": "2025-08-13T11:05:03.339Z"
+          },
+          {
+            "amount": 1,
+            "at": "2025-08-13T11:05:04.499Z"
+          },
+          {
+            "amount": 1,
+            "at": "2025-08-13T11:05:05.475Z"
+          },
+          {
+            "amount": 1,
+            "at": "2025-08-13T11:05:06.452Z"
+          },
+          {
+            "amount": 1,
+            "at": "2025-08-13T11:05:07.507Z"
+          },
+          {
+            "amount": 1,
+            "at": "2025-08-13T11:05:08.491Z"
+          },
+          {
+            "amount": 1,
+            "at": "2025-08-13T11:05:09.531Z"
+          },
+          {
+            "amount": 1,
+            "at": "2025-08-13T11:05:10.835Z"
+          },
+          {
+            "amount": 11,
+            "at": "2025-08-13T11:05:12.155Z"
+          },
+          {
+            "amount": 22,
+            "at": "2025-08-13T11:05:13.355Z"
+          },
+          {
+            "amount": 22,
+            "at": "2025-08-13T11:05:14.723Z"
+          },
+          {
+            "amount": 33,
+            "at": "2025-08-13T11:05:16.747Z"
+          },
+          {
+            "amount": 33,
+            "at": "2025-08-13T11:05:18.203Z"
+          },
+          {
+            "amount": 22,
+            "at": "2025-08-13T11:05:23.067Z"
+          }
+        ],
+        "createdAt": "2025-08-13T11:01:06.125Z",
+        "updatedAt": "2025-08-13T11:05:23.067Z"
+      }
+    ],
+    "createdAt": "2025-06-13"
+  },
+  {
+    "name": "Anastasiadis Dimitris",
+    "phone": "6985421233",
+    "afm": "468888888",
+    "company": "IOsd",
+    "email": "hih@gmail.com",
+    "notes": "",
+    "region": "Athens",
+    "id": "1753963129185",
+    "tasks": [
+      {
+        "title": "Σποτακιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιι",
+        "clientId": "1753963129185",
+        "description": "Να κανω ενα σποτακι 4 λεταμ να εχει χρωμα και δωνες παδιικεσ ξκιγδσξβξκβκξβδσω\nφδσξηξγηδσγ\nηξσδηγκξσδλγσδγ",
+        "cost": "1902",
+        "date": "2025-08-23",
+        "status": "Σε Εξέλιξη",
+        "priority": "Μέτρια",
+        "id": 3
+      }
+    ],
+    "createdAt": "2025-01-18"
+  },
+  {
+    "name": "Kotsos",
+    "phone": "6985722337",
+    "afm": "872573589",
+    "company": "Kort Coms",
+    "email": "4@Gmial.com",
+    "notes": "Kalos",
+    "region": "Thessaloni",
+    "id": "1754052194904",
+    "createdAt": "2025-08-15"
+  },
+  {
+    "name": "Μαρια",
+    "phone": "6985123481",
+    "afm": "271235762",
+    "company": "Remvo",
+    "email": "rtas@gmail.com",
+    "notes": "Pregnant",
+    "region": "Thessaloniki",
+    "id": "1754056219314",
+    "tasks": [],
+    "createdAt": "2025-02-18"
+  },
+  {
+    "name": "Χαρης",
+    "phone": "6453453543",
+    "afm": "345345543",
+    "company": "Tdgvsg",
+    "email": "2@gmail.com",
+    "notes": "",
+    "region": "Thessaloniki",
+    "id": "1754401659842",
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Jingle",
+        "client": "Χαρης",
+        "clientId": "1754401659842",
+        "description": "Task 1 για Χαρης",
+        "status": "Ολοκληρώθηκε",
+        "cost": 1109,
+        "paid": 180,
+        "remaining": 929,
+        "date": "2025-07-02",
+        "createdAt": "2025-06-27",
+        "payments": [
+          {
+            "amount": 180,
+            "at": "2025-06-23"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Promo Event",
+        "client": "Χαρης",
+        "clientId": "1754401659842",
+        "description": "Task 3 για Χαρης",
+        "status": "Δεν Ξεκίνησε",
+        "cost": 2432,
+        "paid": 0,
+        "remaining": 2432,
+        "date": "2025-06-14",
+        "createdAt": "2025-05-31",
+        "payments": []
+      },
+      {
+        "id": 4,
+        "title": "Σχεδιασμός Banner",
+        "client": "Χαρης",
+        "clientId": "1754401659842",
+        "description": "Task 4 για Χαρης",
+        "status": "Σε Εξέλιξη",
+        "cost": 1117,
+        "paid": 896,
+        "remaining": 221,
+        "date": "2025-02-22",
+        "createdAt": "2025-02-21",
+        "payments": [
+          {
+            "amount": 444,
+            "at": "2025-02-15"
+          },
+          {
+            "amount": 452,
+            "at": "2025-02-18"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Spot Τηλεόρασης",
+        "client": "Χαρης",
+        "clientId": "1754401659842",
+        "description": "Task 5 για Χαρης",
+        "status": "Δεν Ξεκίνησε",
+        "cost": 986,
+        "paid": 955,
+        "remaining": 31,
+        "date": "2025-05-17",
+        "createdAt": "2025-04-19",
+        "payments": [
+          {
+            "amount": 955,
+            "at": "2025-05-10"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Παραγωγή Video",
+        "client": "Χαρης",
+        "clientId": "1754401659842",
+        "description": "Task 16 για Χαρης",
+        "status": "Δεν Ξεκίνησε",
+        "cost": 2654,
+        "paid": 0,
+        "remaining": 2654,
+        "date": "2025-07-05",
+        "createdAt": "2025-06-14",
+        "payments": []
+      },
+      {
+        "id": 23,
+        "title": "Jingle",
+        "client": "Χαρης",
+        "clientId": "1754401659842",
+        "description": "Task 23 για Χαρης",
+        "status": "Ολοκληρώθηκε",
+        "cost": 2417,
+        "paid": 2369,
+        "remaining": 48,
+        "date": "2025-06-10",
+        "createdAt": "2025-06-09",
+        "payments": [
+          {
+            "amount": 2303,
+            "at": "2025-06-05"
+          },
+          {
+            "amount": 66,
+            "at": "2025-06-08"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "title": "Παραγωγή Video",
+        "client": "Χαρης",
+        "clientId": "1754401659842",
+        "description": "Task 29 για Χαρης",
+        "status": "Σε Εξέλιξη",
+        "cost": 2764,
+        "paid": 1914,
+        "remaining": 850,
+        "date": "2025-04-12",
+        "createdAt": "2025-04-10",
+        "payments": [
+          {
+            "amount": 1647,
+            "at": "2025-04-11"
+          },
+          {
+            "amount": 267,
+            "at": "2025-04-03"
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "title": "Σχεδιασμός Banner",
+        "client": "Χαρης",
+        "clientId": "1754401659842",
+        "description": "Task 50 για Χαρης",
+        "status": "Δεν Ξεκίνησε",
+        "cost": 640,
+        "paid": 0,
+        "remaining": 640,
+        "date": "2025-04-16",
+        "createdAt": "2025-03-23",
+        "payments": []
+      }
+    ],
+    "createdAt": "2025-05-08"
+  },
+  {
+    "name": "Νικος",
+    "phone": "6971212351",
+    "afm": "878515682",
+    "company": "Rtoel",
+    "email": "rhjfhg@gmail.com",
+    "notes": "enal til 698742412",
+    "region": "Athens",
+    "id": "1754993073112",
+    "tasks": [],
+    "createdAt": "2025-08-12"
+  },
+  {
+    "name": "Τασος",
+    "phone": "6985478424",
+    "afm": "784154348",
+    "company": "Ropd",
+    "email": "rf@gmail.com",
+    "notes": "",
+    "region": "Thessaloniki",
+    "id": "1755081470572",
+    "tasks": [
+      {
+        "id": "1755081486501",
+        "title": "Black Friday εκπτώσεις.",
+        "clientId": "1755081470572",
+        "description": "Σχεδιασμός newsletter για Black Friday εκπτώσεις.",
+        "cost": 150,
+        "date": "2025-08-15",
+        "status": "Δεν Ξεκίνησε",
+        "priority": "Μέτρια",
+        "paid": 100,
+        "payments": [
+          {
+            "amount": 50,
+            "at": "2025-08-13T10:38:16.661Z"
+          },
+          {
+            "amount": 50,
+            "at": "2025-08-13T10:38:21.459Z"
+          }
+        ],
+        "createdAt": "2025-08-13T10:38:06.501Z",
+        "updatedAt": "2025-08-14T08:30:54.134Z"
+      },
+      {
+        "id": "1755089898760",
+        "title": "διαφημιστικο banner",
+        "clientId": "1755081470572",
+        "description": "Δημιουργία διαφημιστικού banner για νέα συλλογή καλοκαιριών ρούχων.",
+        "cost": 323,
+        "date": "2025-08-31",
+        "status": "Δεν Ξεκίνησε",
+        "priority": "Μέτρια",
+        "paid": 323,
+        "payments": [
+          {
+            "amount": 12,
+            "at": "2025-08-13T12:58:29.575Z"
+          },
+          {
+            "amount": 311,
+            "at": "2025-08-13T13:06:42.825Z"
+          }
+        ],
+        "createdAt": "2025-08-13T12:58:18.760Z",
+        "updatedAt": "2025-08-14T08:30:05.982Z"
+      }
+    ],
+    "createdAt": "2025-03-23"
+  },
+  {
+    "name": "Χρηστος",
+    "phone": "6987424845",
+    "afm": "877543433",
+    "company": "Ert 1",
+    "email": "2f@gmail.com",
+    "notes": "",
+    "region": "Athens",
+    "id": "1755085222038",
+    "tasks": [],
+    "createdAt": "2025-01-15"
+  }
+]
