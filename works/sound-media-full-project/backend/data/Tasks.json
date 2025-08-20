@@ -1,0 +1,976 @@
+[
+  {
+    "id": 1,
+    "title": "Jingle",
+    "client": "Χαρης",
+    "clientId": "1754401659842",
+    "description": "Task 1 για Χαρης",
+    "status": "Ολοκληρώθηκε",
+    "cost": 47,
+    "paid": 47,
+    "remaining": 0,
+    "date": "2025-07-02",
+    "createdAt": "2025-06-27",
+    "payments": [
+      {
+        "amount": 47,
+        "at": "2025-06-23"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.436743Z"
+  },
+  {
+    "id": 2,
+    "title": "Voiceover",
+    "client": "Τασος",
+    "clientId": "1755081470572",
+    "description": "Task 2 για Τασος",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 140,
+    "paid": 140,
+    "remaining": 0,
+    "date": "2025-03-26",
+    "createdAt": "2025-03-18",
+    "payments": [
+      {
+        "amount": 140,
+        "at": "2025-03-18"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.436783Z"
+  },
+  {
+    "id": 3,
+    "title": "Promo Event",
+    "client": "Χαρης",
+    "clientId": "1754401659842",
+    "description": "Task 3 για Χαρης",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 60,
+    "paid": 0,
+    "remaining": 60,
+    "date": "2025-06-14",
+    "createdAt": "2025-05-31",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.436808Z"
+  },
+  {
+    "id": 4,
+    "title": "Σχεδιασμός Banner",
+    "client": "Χαρης",
+    "clientId": "1754401659842",
+    "description": "Task 4 για Χαρης",
+    "status": "Σε Εξέλιξη",
+    "cost": 60,
+    "paid": 60,
+    "remaining": 0,
+    "date": "2025-02-22",
+    "createdAt": "2025-02-21",
+    "payments": [
+      {
+        "amount": 60,
+        "at": "2025-02-15"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.436835Z"
+  },
+  {
+    "id": 5,
+    "title": "Spot Τηλεόρασης",
+    "client": "Χαρης",
+    "clientId": "1754401659842",
+    "description": "Task 5 για Χαρης",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 109,
+    "paid": 109,
+    "remaining": 0,
+    "date": "2025-05-17",
+    "createdAt": "2025-04-19",
+    "payments": [
+      {
+        "amount": 109,
+        "at": "2025-05-10"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.436866Z"
+  },
+  {
+    "id": 6,
+    "title": "Καμπάνια Social Media",
+    "client": "Τασος",
+    "clientId": "1755081470572",
+    "description": "Task 6 για Τασος",
+    "status": "Σε Εξέλιξη",
+    "cost": 131,
+    "paid": 131,
+    "remaining": 0,
+    "date": "2025-08-16",
+    "createdAt": "2025-07-23",
+    "payments": [
+      {
+        "amount": 131,
+        "at": "2025-08-19T13:16:19.348Z"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.436896Z"
+  },
+  {
+    "id": 7,
+    "title": "Συμβουλευτική",
+    "client": "Μαρια",
+    "clientId": "1754056219314",
+    "description": "Task 7 για Μαρια",
+    "status": "Ολοκληρώθηκε",
+    "cost": 71,
+    "paid": 71,
+    "remaining": 0,
+    "date": "2025-04-10",
+    "createdAt": "2025-04-05",
+    "payments": [
+      {
+        "amount": 71,
+        "at": "2025-04-16"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.436938Z"
+  },
+  {
+    "id": 8,
+    "title": "Campaign Strategy",
+    "client": "Arthur NTZ",
+    "clientId": 1753961586518,
+    "description": "Task 8 για Arthur NTZ",
+    "status": "Σε Εξέλιξη",
+    "cost": 59,
+    "paid": 59,
+    "remaining": 0,
+    "date": "2025-04-12",
+    "createdAt": "2025-03-15",
+    "payments": [
+      {
+        "amount": 59,
+        "at": "2025-04-08"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.436966Z"
+  },
+  {
+    "id": 9,
+    "title": "Καμπάνια Social Media",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 9 για Νικος",
+    "status": "Σε Εξέλιξη",
+    "cost": 89,
+    "paid": 89,
+    "remaining": 0,
+    "date": "2025-02-11",
+    "createdAt": "2025-01-15",
+    "payments": [
+      {
+        "amount": 89,
+        "at": "2025-02-21"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.436990Z"
+  },
+  {
+    "id": 10,
+    "title": "Jingle",
+    "client": "Χρηστος",
+    "clientId": "1755085222038",
+    "description": "Task 10 για Χρηστος",
+    "status": "Σε Εξέλιξη",
+    "cost": 103,
+    "paid": 0,
+    "remaining": 103,
+    "date": "2025-03-19",
+    "createdAt": "2025-02-21",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.437009Z"
+  },
+  {
+    "id": 11,
+    "title": "Spot Τηλεόρασης",
+    "client": "Μαρια",
+    "clientId": "1754056219314",
+    "description": "Task 11 για Μαρια",
+    "status": "Ολοκληρώθηκε",
+    "cost": 87,
+    "paid": 87,
+    "remaining": 0,
+    "date": "2025-04-18",
+    "createdAt": "2025-03-26",
+    "payments": [
+      {
+        "amount": 87,
+        "at": "2025-05-03"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437033Z"
+  },
+  {
+    "id": 12,
+    "title": "Newsletter",
+    "client": "Χρηστος",
+    "clientId": "1755085222038",
+    "description": "Task 12 για Χρηστος",
+    "status": "Ολοκληρώθηκε",
+    "cost": 90,
+    "paid": 90,
+    "remaining": 0,
+    "date": "2025-01-18",
+    "createdAt": "2025-01-13",
+    "payments": [
+      {
+        "amount": 90,
+        "at": "2025-01-21"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437058Z"
+  },
+  {
+    "id": 13,
+    "title": "Voiceover",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 13 για Νικος",
+    "status": "Ολοκληρώθηκε",
+    "cost": 63,
+    "paid": 63,
+    "remaining": 0,
+    "date": "2025-08-16",
+    "createdAt": "2025-08-13",
+    "payments": [
+      {
+        "amount": 63,
+        "at": "2025-08-15"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437087Z"
+  },
+  {
+    "id": 14,
+    "title": "Σχεδιασμός Banner",
+    "client": "Χρηστος",
+    "clientId": "1755085222038",
+    "description": "Task 14 για Χρηστος",
+    "status": "Ολοκληρώθηκε",
+    "cost": 43,
+    "paid": 43,
+    "remaining": 0,
+    "date": "2025-01-01",
+    "createdAt": "2024-12-26",
+    "payments": [
+      {
+        "amount": 43,
+        "at": "2024-12-24"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437110Z"
+  },
+  {
+    "id": 15,
+    "title": "Συμβουλευτική",
+    "client": "Χρηστος",
+    "clientId": "1755085222038",
+    "description": "Task 15 για Χρηστος",
+    "status": "Ολοκληρώθηκε",
+    "cost": 56,
+    "paid": 56,
+    "remaining": 0,
+    "date": "2025-08-14",
+    "createdAt": "2025-08-06",
+    "payments": [
+      {
+        "amount": 56,
+        "at": "2025-08-14"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437141Z"
+  },
+  {
+    "id": 16,
+    "title": "Παραγωγή Video",
+    "client": "Χαρης",
+    "clientId": "1754401659842",
+    "description": "Task 16 για Χαρης",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 76,
+    "paid": 0,
+    "remaining": 76,
+    "date": "2025-07-05",
+    "createdAt": "2025-06-14",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.437165Z"
+  },
+  {
+    "id": 17,
+    "title": "Campaign Strategy",
+    "client": "Kotsos",
+    "clientId": "1754052194904",
+    "description": "Task 17 για Kotsos",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 96,
+    "paid": 0,
+    "remaining": 96,
+    "date": "2025-01-04",
+    "createdAt": "2024-12-05",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.437188Z"
+  },
+  {
+    "id": 18,
+    "title": "Spot Τηλεόρασης",
+    "client": "Τασος",
+    "clientId": "1755081470572",
+    "description": "Task 18 για Τασος",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 53,
+    "paid": 53,
+    "remaining": 0,
+    "date": "2025-01-23",
+    "createdAt": "2025-01-09",
+    "payments": [
+      {
+        "amount": 53,
+        "at": "2025-02-11"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437221Z"
+  },
+  {
+    "id": 19,
+    "title": "Audio Mixing",
+    "client": "Anastasiadis Dimitris",
+    "clientId": "1753963129185",
+    "description": "Task 19 για Anastasiadis Dimitris",
+    "status": "Σε Εξέλιξη",
+    "cost": 116,
+    "paid": 116,
+    "remaining": 0,
+    "date": "2025-07-25",
+    "createdAt": "2025-07-11",
+    "payments": [
+      {
+        "amount": 116,
+        "at": "2025-08-19T11:56:30.482Z"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437254Z"
+  },
+  {
+    "id": 20,
+    "title": "Voiceover",
+    "client": "Anastasiadis Dimitris",
+    "clientId": "1753963129185",
+    "description": "Task 20 για Anastasiadis Dimitris",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 145,
+    "paid": 145,
+    "remaining": 0,
+    "date": "2025-06-26",
+    "createdAt": "2025-06-14",
+    "payments": [
+      {
+        "amount": 145,
+        "at": "2025-06-26"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437288Z"
+  },
+  {
+    "id": 21,
+    "title": "Παραγωγή Video",
+    "client": "Arthur NTZ",
+    "clientId": 1753961586518,
+    "description": "Task 21 για Arthur NTZ",
+    "status": "Ολοκληρώθηκε",
+    "cost": 51,
+    "paid": 51,
+    "remaining": 0,
+    "date": "2025-08-01",
+    "createdAt": "2025-07-24",
+    "payments": [
+      {
+        "amount": 51,
+        "at": "2025-07-26"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437314Z"
+  },
+  {
+    "id": 22,
+    "title": "Συμβουλευτική",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 22 για Νικος",
+    "status": "Ολοκληρώθηκε",
+    "cost": 146,
+    "paid": 146,
+    "remaining": 0,
+    "date": "2025-01-15",
+    "createdAt": "2025-01-13",
+    "payments": [
+      {
+        "amount": 146,
+        "at": "2025-01-09"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437337Z"
+  },
+  {
+    "id": 23,
+    "title": "Jingle",
+    "client": "Χαρης",
+    "clientId": "1754401659842",
+    "description": "Task 23 για Χαρης",
+    "status": "Ολοκληρώθηκε",
+    "cost": 148,
+    "paid": 148,
+    "remaining": 0,
+    "date": "2025-06-10",
+    "createdAt": "2025-06-09",
+    "payments": [
+      {
+        "amount": 148,
+        "at": "2025-06-05"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437361Z"
+  },
+  {
+    "id": 24,
+    "title": "Jingle",
+    "client": "Arthur NTZ",
+    "clientId": 1753961586518,
+    "description": "Task 24 για Arthur NTZ",
+    "status": "Σε Εξέλιξη",
+    "cost": 121,
+    "paid": 0,
+    "remaining": 121,
+    "date": "2025-05-29",
+    "createdAt": "2025-05-07",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.437379Z"
+  },
+  {
+    "id": 25,
+    "title": "Promo Event",
+    "client": "Kotsos",
+    "clientId": "1754052194904",
+    "description": "Task 25 για Kotsos",
+    "status": "Σε Εξέλιξη",
+    "cost": 78,
+    "paid": 78,
+    "remaining": 0,
+    "date": "2025-05-22",
+    "createdAt": "2025-04-27",
+    "payments": [
+      {
+        "amount": 78,
+        "at": "2025-05-27"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437401Z"
+  },
+  {
+    "id": 26,
+    "title": "Συμβουλευτική",
+    "client": "Μαρια",
+    "clientId": "1754056219314",
+    "description": "Task 26 για Μαρια",
+    "status": "Ολοκληρώθηκε",
+    "cost": 125,
+    "paid": 125,
+    "remaining": 125,
+    "date": "2025-06-05",
+    "createdAt": "2025-06-04",
+    "payments": [
+      {
+        "amount": 125,
+        "at": "2025-08-20T09:59:51.152Z"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:59:51.152Z"
+  },
+  {
+    "id": 27,
+    "title": "Διαφήμιση Ραδιοφώνου",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 27 για Νικος",
+    "status": "Ολοκληρώθηκε",
+    "cost": 113,
+    "paid": 113,
+    "remaining": 0,
+    "date": "2025-01-18",
+    "createdAt": "2025-01-02",
+    "payments": [
+      {
+        "amount": 113,
+        "at": "2025-01-18"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437453Z"
+  },
+  {
+    "id": 28,
+    "title": "Audio Mixing",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 28 για Νικος",
+    "status": "Σε Εξέλιξη",
+    "cost": 44,
+    "paid": 44,
+    "remaining": 0,
+    "date": "2025-04-11",
+    "createdAt": "2025-04-03",
+    "payments": [
+      {
+        "amount": 44,
+        "at": "2025-04-11"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437478Z"
+  },
+  {
+    "id": 29,
+    "title": "Παραγωγή Video",
+    "client": "Χαρης",
+    "clientId": "1754401659842",
+    "description": "Task 29 για Χαρης",
+    "status": "Σε Εξέλιξη",
+    "cost": 100,
+    "paid": 100,
+    "remaining": 0,
+    "date": "2025-04-12",
+    "createdAt": "2025-04-10",
+    "payments": [
+      {
+        "amount": 100,
+        "at": "2025-04-11"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437500Z"
+  },
+  {
+    "id": 30,
+    "title": "Audio Mixing",
+    "client": "Kotsos",
+    "clientId": "1754052194904",
+    "description": "Task 30 για Kotsos",
+    "status": "Σε Εξέλιξη",
+    "cost": 99,
+    "paid": 0,
+    "remaining": 99,
+    "date": "2025-03-09",
+    "createdAt": "2025-02-10",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.437519Z"
+  },
+  {
+    "id": 31,
+    "title": "Jingle",
+    "client": "Kotsos",
+    "clientId": "1754052194904",
+    "description": "Task 31 για Kotsos",
+    "status": "Ολοκληρώθηκε",
+    "cost": 31,
+    "paid": 31,
+    "remaining": 0,
+    "date": "2025-08-03",
+    "createdAt": "2025-08-02",
+    "payments": [
+      {
+        "amount": 31,
+        "at": "2025-08-15"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437545Z"
+  },
+  {
+    "id": 32,
+    "title": "Jingle",
+    "client": "Kotsos",
+    "clientId": "1754052194904",
+    "description": "Task 32 για Kotsos",
+    "status": "Σε Εξέλιξη",
+    "cost": 39,
+    "paid": 39,
+    "remaining": 0,
+    "date": "2025-03-22",
+    "createdAt": "2025-03-13",
+    "payments": [
+      {
+        "amount": 39,
+        "at": "2025-03-25"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437574Z"
+  },
+  {
+    "id": 33,
+    "title": "Website Update",
+    "client": "Arthur NTZ",
+    "clientId": 1753961586518,
+    "description": "Task 33 για Arthur NTZ",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 103,
+    "paid": 0,
+    "remaining": 103,
+    "date": "2025-04-20",
+    "createdAt": "2025-04-03",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.437592Z"
+  },
+  {
+    "id": 34,
+    "title": "Διαφήμιση Ραδιοφώνου",
+    "client": "Τασος",
+    "clientId": "1755081470572",
+    "description": "Task 34 για Τασος",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 97,
+    "paid": 97,
+    "remaining": 0,
+    "date": "2025-02-03",
+    "createdAt": "2025-01-07",
+    "payments": [
+      {
+        "amount": 97,
+        "at": "2025-01-29"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437615Z"
+  },
+  {
+    "id": 35,
+    "title": "Καμπάνια Social Media",
+    "client": "Arthur NTZ",
+    "clientId": 1753961586518,
+    "description": "Task 35 για Arthur NTZ",
+    "status": "Ολοκληρώθηκε",
+    "cost": 100,
+    "paid": 100,
+    "remaining": 0,
+    "date": "2025-01-09",
+    "createdAt": "2024-12-13",
+    "payments": [
+      {
+        "amount": 100,
+        "at": "2025-01-24"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437638Z"
+  },
+  {
+    "id": 36,
+    "title": "Website Update",
+    "client": "Arthur NTZ",
+    "clientId": 1753961586518,
+    "description": "Task 36 για Arthur NTZ",
+    "status": "Σε Εξέλιξη",
+    "cost": 72,
+    "paid": 0,
+    "remaining": 72,
+    "date": "2025-05-24",
+    "createdAt": "2025-05-04",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.437659Z"
+  },
+  {
+    "id": 37,
+    "title": "Jingle",
+    "client": "Kotsos",
+    "clientId": "1754052194904",
+    "description": "Task 37 για Kotsos",
+    "status": "Σε Εξέλιξη",
+    "cost": 117,
+    "paid": 0,
+    "remaining": 117,
+    "date": "2025-02-21",
+    "createdAt": "2025-02-02",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.437686Z"
+  },
+  {
+    "id": 38,
+    "title": "Copywriting",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 38 για Νικος",
+    "status": "Σε Εξέλιξη",
+    "cost": 111,
+    "paid": 111,
+    "remaining": 0,
+    "date": "2025-07-22",
+    "createdAt": "2025-07-17",
+    "payments": [
+      {
+        "amount": 10,
+        "at": "2025-08-19T12:52:22.212Z"
+      },
+      {
+        "amount": 101,
+        "at": "2025-08-19T12:52:28.746Z"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437729Z"
+  },
+  {
+    "id": 39,
+    "title": "Διαφήμιση Ραδιοφώνου",
+    "client": "Μαρια",
+    "clientId": "1754056219314",
+    "description": "Task 39 για Μαρια",
+    "status": "Ολοκληρώθηκε",
+    "cost": 56,
+    "paid": 56,
+    "remaining": 0,
+    "date": "2025-05-23",
+    "createdAt": "2025-04-25",
+    "payments": [
+      {
+        "amount": 56,
+        "at": "2025-06-08"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437753Z"
+  },
+  {
+    "id": 40,
+    "title": "Spot Τηλεόρασης",
+    "client": "Χρηστος",
+    "clientId": "1755085222038",
+    "description": "Task 40 για Χρηστος",
+    "status": "Σε Εξέλιξη",
+    "cost": 88,
+    "paid": 88,
+    "remaining": 0,
+    "date": "2025-01-23",
+    "createdAt": "2024-12-31",
+    "payments": [
+      {
+        "amount": 88,
+        "at": "2025-01-17"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437775Z"
+  },
+  {
+    "id": 41,
+    "title": "Audio Mixing",
+    "client": "Anastasiadis Dimitris",
+    "clientId": "1753963129185",
+    "description": "Task 41 για Anastasiadis Dimitris",
+    "status": "Σε Εξέλιξη",
+    "cost": 78,
+    "paid": 78,
+    "remaining": 78,
+    "date": "2025-02-27",
+    "createdAt": "2025-02-05",
+    "payments": [
+      {
+        "amount": 78,
+        "at": "2025-08-20T09:59:16.317Z"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:59:16.317Z"
+  },
+  {
+    "id": 42,
+    "title": "Campaign Strategy",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 42 για Νικος",
+    "status": "Σε Εξέλιξη",
+    "cost": 111,
+    "paid": 111,
+    "remaining": 0,
+    "date": "2025-06-12",
+    "createdAt": "2025-05-13",
+    "payments": [
+      {
+        "amount": 111,
+        "at": "2025-06-30"
+      }
+    ],
+    "priority": "Υψηλή",
+    "updatedAt": "2025-08-20T09:16:06.437815Z"
+  },
+  {
+    "id": 43,
+    "title": "Spot Τηλεόρασης",
+    "client": "Τασος",
+    "clientId": "1755081470572",
+    "description": "Task 43 για Τασος",
+    "status": "Ολοκληρώθηκε",
+    "cost": 34,
+    "paid": 34,
+    "remaining": 0,
+    "date": "2025-04-13",
+    "createdAt": "2025-03-27",
+    "payments": [
+      {
+        "amount": 25,
+        "at": "2025-04-14"
+      },
+      {
+        "amount": 9,
+        "at": "2025-04-06"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437858Z"
+  },
+  {
+    "id": 44,
+    "title": "Σχεδιασμός Banner",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 44 για Νικος",
+    "status": "Ολοκληρώθηκε",
+    "cost": 82,
+    "paid": 82,
+    "remaining": 0,
+    "date": "2025-01-05",
+    "createdAt": "2024-12-15",
+    "payments": [
+      {
+        "amount": 82,
+        "at": "2024-12-28"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437881Z"
+  },
+  {
+    "id": 45,
+    "title": "Διαφήμιση Ραδιοφώνου",
+    "client": "Anastasiadis Dimitris",
+    "clientId": "1753963129185",
+    "description": "Task 45 για Anastasiadis Dimitris",
+    "status": "Ολοκληρώθηκε",
+    "cost": 64,
+    "paid": 64,
+    "remaining": 0,
+    "date": "2025-06-10",
+    "createdAt": "2025-06-06",
+    "payments": [
+      {
+        "amount": 64,
+        "at": "2025-06-03"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437914Z"
+  },
+  {
+    "id": 46,
+    "title": "Συμβουλευτική",
+    "client": "Anastasiadis Dimitris",
+    "clientId": "1753963129185",
+    "description": "Task 46 για Anastasiadis Dimitris",
+    "status": "Σε Εξέλιξη",
+    "cost": 143,
+    "paid": 143,
+    "remaining": 0,
+    "date": "2025-05-21",
+    "createdAt": "2025-05-04",
+    "payments": [
+      {
+        "amount": 143,
+        "at": "2025-05-30"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437937Z"
+  },
+  {
+    "id": 47,
+    "title": "Copywriting",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 47 για Νικος",
+    "status": "Σε Εξέλιξη",
+    "cost": 75,
+    "paid": 75,
+    "remaining": 0,
+    "date": "2025-04-28",
+    "createdAt": "2025-04-09",
+    "payments": [
+      {
+        "amount": 75,
+        "at": "2025-05-18"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437959Z"
+  },
+  {
+    "id": 48,
+    "title": "Promo Event",
+    "client": "Νικος",
+    "clientId": "1754993073112",
+    "description": "Task 48 για Νικος",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 100,
+    "paid": 100,
+    "remaining": 0,
+    "date": "2025-02-03",
+    "createdAt": "2025-01-13",
+    "payments": [
+      {
+        "amount": 100,
+        "at": "2025-02-03"
+      }
+    ],
+    "updatedAt": "2025-08-20T09:16:06.437985Z"
+  },
+  {
+    "id": 49,
+    "title": "Website Update",
+    "client": "Anastasiadis Dimitris",
+    "clientId": "1753963129185",
+    "description": "Task 49 για Anastasiadis Dimitris",
+    "status": "Σε Εξέλιξη",
+    "cost": 38,
+    "paid": 0,
+    "remaining": 38,
+    "date": "2025-05-05",
+    "createdAt": "2025-04-11",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.438009Z"
+  },
+  {
+    "id": 50,
+    "title": "Σχεδιασμός Banner",
+    "client": "Χαρης",
+    "clientId": "1754401659842",
+    "description": "Task 50 για Χαρης",
+    "status": "Δεν Ξεκίνησε",
+    "cost": 93,
+    "paid": 0,
+    "remaining": 93,
+    "date": "2025-04-16",
+    "createdAt": "2025-03-23",
+    "payments": [],
+    "updatedAt": "2025-08-20T09:16:06.438027Z"
+  },
+  {
+    "id": 51,
+    "title": "Retf",
+    "clientId": "1755085222038",
+    "description": "asfvsv",
+    "cost": 61,
+    "date": "2025-08-21",
+    "status": "Σε Εξέλιξη",
+    "priority": "Υψηλή",
+    "paid": 33,
+    "payments": [
+      {
+        "amount": 33,
+        "at": "2025-08-19T13:16:24.890Z"
+      }
+    ],
+    "createdAt": "2025-08-19T12:53:21.453Z",
+    "updatedAt": "2025-08-20T09:16:06.438054Z",
+    "remaining": 28
+  }
+]

@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: sound-media-one-server
+    env: node
+    rootDir: works/sound-media-full-project/backend
+    plan: free
+    buildCommand: |
+      npm ci --prefix ../frontend
+      npm run build --prefix ../frontend
+      rm -rf public && mkdir -p public
+      cp -r ../frontend/dist/* public/
+      npm ci
+    startCommand: node app.js
